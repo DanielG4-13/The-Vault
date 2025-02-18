@@ -1,0 +1,16 @@
+Opened Github
+Created a Repository with a README.md named 'The Vault'
+git cloned the Repository to 'Block07'
+created a html file in the Repository folder(The Vault)
+Added a heading 2 in the body, it says, "IDK"
+created a javascript file
+connected the javascript file to the html file
+in the javascript file I added 4 variables and 1 console.log
+assigned '(19-12)+3' to the variable 'num1'
+assigned 2 times 20 to the variable 'num2'
+assigned 36+3 to the variable 'num3'
+concatenated num1, num2, num2, and '-' to the variable answer
+concatenated a string to the variable answer
+console logged concatenated string and answer variable
+created a step by step (Pseudocode)
+Commit the changes to the main 
