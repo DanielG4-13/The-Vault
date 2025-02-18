@@ -13,6 +13,7 @@ concatenated num1, num2, num2, and '-' to the variable answer
 concatenated a string to the variable answer
 console logged concatenated string and answer variable
 created a step by step (Pseudocode)
-Commit the changes to the main 
+Commit the changes to the main
+pushed teh changes to the main 
 copied the url to the Repository
 submitted them in Canvas assingment
